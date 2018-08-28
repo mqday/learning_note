@@ -3,7 +3,7 @@ It's my learning note .
 
 
 #常用状态码
-200 OK：成功返回状态，对应，GET,PUT,PATCH,DELETE。
+##200 OK：成功返回状态，对应，GET,PUT,PATCH,DELETE。
 201 created  - 成功创建。
 302 Found：重定向，新的URL会在response中的Location中返回，浏览器将会使用新的URL发出新的Request。
 
