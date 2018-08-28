@@ -3,9 +3,9 @@ It's my learning note .
 
 
 # 常用状态码
-200 OK：成功返回状态，对应，GET,PUT,PATCH,DELETE。
-201 created  - 成功创建。
-302 Found：重定向，新的URL会在response中的Location中返回，浏览器将会使用新的URL发出新的Request。
+## 200 OK：成功返回状态，对应，GET,PUT,PATCH,DELETE。
+## 201 created  - 成功创建。
+## 302 Found：重定向，新的URL会在response中的Location中返回，浏览器将会使用新的URL发出新的Request。
 
                  例如在IE中输入http://www.google.com. HTTP服务器会返回304， IE取到Response中Location header的新URL, 又重新发送了一 个 Request.
 304 Not Modified：代表上次的文档已经被缓存了， 还可以继续使用。
