@@ -19,3 +19,6 @@ It's my learning note .
 * 429 too many request - 请求过多。
 * 500 Internal Server Error：服务器发生了不可预期的错误。
 * 503 Server Unavailable：服务器当前不能处理客户端的请求，一段时间后可能恢复正常。
+
+# html
+
