@@ -22,4 +22,4 @@ It's my learning note .
 
 # html
 
-* [屏幕对应尺寸](learning_note/static/栅格参数.png)
+* [屏幕对应尺寸](./static/栅格参数.png)
