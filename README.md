@@ -23,3 +23,11 @@ It's my learning note .
 # html
 
 * [屏幕对应尺寸](https://github.com/mqday/learning_note/raw/master/static/栅格参数.png)
+* 当margin-top、padding-top的值是百分比时，分别是如何计算的？ 相对最近父级块级元素的width，相对最近父级块级元素的width。
+## h5新增元素
+* datalist 元素规定输入域的选项列表,通过option创建。
+* keygen 元素的作用是提供一种验证用户的可靠方法,，密钥对生成器，私钥存于客户端，公钥发到服务器，用于之后验证客户端证书。 
+* output 元素用于不同类型的输出。
+* <q>标签定义一个短的引用；
+* <ins>标签定义文档的其余部分之外的插入文本；
+* <menu>标签定义菜单列表。当希望列出表单控件时使用该标签（HTML4不支持该标签）
