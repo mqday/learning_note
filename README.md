@@ -24,6 +24,14 @@ It's my learning note .
 
 * [屏幕对应尺寸](https://github.com/mqday/learning_note/raw/master/static/栅格参数.png)
 * 当margin-top、padding-top的值是百分比时，分别是如何计算的？ 相对最近父级块级元素的width，相对最近父级块级元素的width。
+*  em	把文本定义为强调的内容。
+*  strong	把文本定义为语气更强的强调的内容。
+*  dfn	定义一个定义项目。
+*  code	定义计算机代码文本。
+*  samp	定义样本文本。
+*  kbd	定义键盘文本。它表示文本是从键盘上键入的。它经常用在与计算机相关的文档或手册中。
+*  var	定义变量。您可以将此标签与 \<pre\> 及 \<code\> 标签配合使用。
+*  cite	定义引用。可使用该标签对参考文献的引用进行定义，比如书籍或杂志的标题。
 ## h5新增元素
 * datalist 元素规定输入域的选项列表,通过option创建。
 * keygen 元素的作用是提供一种验证用户的可靠方法,，密钥对生成器，私钥存于客户端，公钥发到服务器，用于之后验证客户端证书。 
