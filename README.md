@@ -3,39 +3,8 @@ It's my learning note .
 
 
 # 常用状态码
-* 200 OK：成功返回状态，对应，GET,PUT,PATCH,DELETE。
-* 201 created  - 成功创建。
-* 302 Found：重定向，新的URL会在response中的Location中返回，浏览器将会使用新的URL发出新的Request。
-> 例如在IE中输入http://www.google.com. HTTP服务器会返回304， IE取到Response中Location header的新URL, 又重新发送了一 个 Request.
-* 304 Not Modified：代表上次的文档已经被缓存了， 还可以继续使用。
-* 400 bad request   - 请求格式错误。
-* 401 unauthorized   - 未授权。
-* 403 forbidden   - 鉴权成功，但是该用户没有权限。
-* 404 not found - 请求的资源不存在。
-* 405 method not allowed - 该http方法不被允许。
-* 410 gone - 这个url对应的资源现在不可用。
-* 415 unsupported media type - 请求类型错误。
-* 422 unprocessable entity - 校验错误时用。
-* 429 too many request - 请求过多。
-* 500 Internal Server Error：服务器发生了不可预期的错误。
-* 503 Server Unavailable：服务器当前不能处理客户端的请求，一段时间后可能恢复正常。
+* => stateCode 
 
 # html
-
 * [屏幕对应尺寸](https://github.com/mqday/learning_note/raw/master/static/栅格参数.png)
-* 当margin-top、padding-top的值是百分比时，分别是如何计算的？ 相对最近父级块级元素的width，相对最近父级块级元素的width。
-*  em	把文本定义为强调的内容。
-*  strong	把文本定义为语气更强的强调的内容。
-*  dfn	定义一个定义项目。
-*  code	定义计算机代码文本。
-*  samp	定义样本文本。
-*  kbd	定义键盘文本。它表示文本是从键盘上键入的。它经常用在与计算机相关的文档或手册中。
-*  var	定义变量。您可以将此标签与 \<pre\> 及 \<code\> 标签配合使用。
-*  cite	定义引用。可使用该标签对参考文献的引用进行定义，比如书籍或杂志的标题。
-## h5新增元素
-* datalist 元素规定输入域的选项列表,通过option创建。
-* keygen 元素的作用是提供一种验证用户的可靠方法,，密钥对生成器，私钥存于客户端，公钥发到服务器，用于之后验证客户端证书。 
-* output 元素用于不同类型的输出。
-* q 标签定义一个短的引用；
-* ins 标签定义文档的其余部分之外的插入文本；
-* menu 标签定义菜单列表。当希望列出表单控件时使用该标签（HTML4不支持该标签）
+* html 面试题 => html
